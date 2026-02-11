@@ -37,6 +37,13 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Overnight mini-App Builder](usecases/overnight-mini-app-builder.md) | Wake up to a fresh micro-app idea, built and ready to try |
 | [YouTube Content Pipeline](usecases/youtube-content-pipeline.md) | Automate video idea scouting, research, and tracking for a YouTube channel. |
 
+## Infrastructure & DevOps
+
+| Name | Description |
+|------|-------------|
+| [n8n Workflow Orchestration](usecases/n8n-workflow-orchestration.md) | Delegate API calls to n8n workflows via webhooks — the agent never touches credentials, and every integration is visual and lockable. |
+| [Self-Healing Home Server](usecases/self-healing-home-server.md) | Run an always-on infrastructure agent with SSH access, automated cron jobs, and self-healing capabilities across your home network. |
+
 ## Productivity
 
 | Name | Description |
@@ -50,6 +57,8 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Multi-Channel Personal Assistant](usecases/multi-channel-assistant.md) | Route tasks across Telegram, Slack, email, and calendar from a single AI assistant. |
 | [Todoist Task Manager](usecases/todoist-task-manager.md) | Maximize agent transparency by syncing reasoning and progress logs to Todoist. |
 | [Phone-Based Personal Assistant](usecases/phone-based-personal-assistant.md) | Access OpenClaw from any phone via voice call or SMS. Get calendar updates, Jira tickets, and web search results hands-free. |
+| [Family Calendar & Household Assistant](usecases/family-calendar-household-assistant.md) | Aggregate all family calendars into a morning briefing, monitor messages for appointments, and manage household inventory. |
+| [Multi-Agent Specialized Team](usecases/multi-agent-team.md) | Run multiple specialized agents (strategy, dev, marketing, business) as a coordinated team via a single Telegram chat. |
 
 
 ## Research & Learning
